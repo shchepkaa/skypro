@@ -21,6 +21,9 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Griffin Burrow Locator and Waypoints
 - Track Mythological Event drops
 - Track Gaia Construct Hits
+- Reparty Command Which Yields to Other Mods
+- Auto Accept Reparty
+- ~~Trick or Treat Chest Alert~~
 - Custom Key Shortcuts
 - Better Auction House Price Input
 - Copy Deaths to Clipboard
@@ -66,7 +69,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
   The text used to display skyblock information.
   Doesn't show up when using anything that removes text.</details> 
   </details>
-
+  
 <details>
   <summary>Dungeons</summary>
 
@@ -107,6 +110,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Spirit Leap Highlights for Names and Classes
 - Big Crypts Counter
 - Highlight Spirit Bow
+- <details>
 
 <details>
   <summary>Items</summary>
@@ -138,6 +142,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Show Radioactive Bonus
 - Block Zapper Fatigue Timer
 - Etherwarp Teleport Display
+- <details>
 
 <details>
     <summary>Slayers</summary>
