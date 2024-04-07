@@ -23,7 +23,6 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Track Gaia Construct Hits
 - Reparty Command Which Yields to Other Mods
 - Auto Accept Reparty
-- ~~Trick or Treat Chest Alert~~
 - Custom Key Shortcuts
 - Better Auction House Price Input
 - Copy Deaths to Clipboard
@@ -103,9 +102,6 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 
 ### Items
 
-- ~~Soul Eater Bonus Strength~~
-- ~~Block Useless Zombie Sword Uses~~
-- ~~Prioritize Item Abilities~~
 - Pet Item Confirmation
 - Highlight Active & Favorite Pets
 - Hide Implosion Particles
@@ -120,8 +116,6 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Prevent Placing Spirit Sceptre and Flower of Truth
 - Transparent Head Layer
 - Show NPC Sell Values
-- ~~Hide Wither Veil Creepers Near NPCs~~
-- ~~Customizable Block Item Ability~~
 - Show Price of Items in the Experimentation Table
 - Jerry-chine Gun Sound Hider
 - Show Enchanted Book Abbreviation
