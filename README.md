@@ -97,8 +97,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Spirit Leap Highlights for Names and Classes
 - Big Crypts Counter
 - Highlight Spirit Bow
-- <details>
-
+  </details>
 <details>
   <summary>Items</summary>
 
@@ -129,7 +128,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Show Radioactive Bonus
 - Block Zapper Fatigue Timer
 - Etherwarp Teleport Display
-- <details>
+  </details>
 
 <details>
     <summary>Slayers</summary>
