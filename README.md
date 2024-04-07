@@ -54,20 +54,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
     - Sea Creature and Fishing Treasure messages
     - Compact Enchantment messages
     - Mining ability messages
-- <details><summary>Custom Spam Hider</summary>
 
-    - 3 modes: StartsWith, Contains, Regex
-    - Toggle for skyblock only
-    - Custom Name and Pattern
-    - Can use unformatted or formatted text
-    - Works with existing spam GUI element
-  </details>
-- Custom Enchant Names
-- <details> <summary>Moveable Item Highlight</summary>
-  The text for item name that shows up when you swap items</details>
-- <details><summary>Moveable Action Bar</summary>
-  The text used to display skyblock information.
-  Doesn't show up when using anything that removes text.</details> 
   </details>
   
 <details>
