@@ -139,7 +139,6 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Block Zapper Fatigue Timer
 - Etherwarp Teleport Display
 
-</details>
 <details>
     <summary>Slayers</summary>
 
