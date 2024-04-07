@@ -21,9 +21,6 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Griffin Burrow Locator and Waypoints
 - Track Mythological Event drops
 - Track Gaia Construct Hits
-- Reparty Command Which Yields to Other Mods
-- Auto Accept Reparty
-- ~~Trick or Treat Chest Alert~~
 - Custom Key Shortcuts
 - Better Auction House Price Input
 - Copy Deaths to Clipboard
@@ -75,7 +72,6 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 
 #### Dungeons
 
-- ~~Show Hidden Fels, Shadow Assassins, and blood room mobs~~
 - Blaze Solver Which Replaces The Skin Textures
 - Boulder Puzzle Solver
 - Simon Says Solver
@@ -112,37 +108,6 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Big Crypts Counter
 - Highlight Spirit Bow
 
-</details>
-<details>
-  <summary>Farming</summary>
-
-### Farming
-
-- ~~Block Math Hoe Recipe Viewer~~
-- ~~Block Breaking Farms~~
-- Hungry Hiker solver
-- Treasure Hunter Solver
-
-</details>
-<details>
-  <summary>Mining</summary>
-
-### Mining
-
-- ~~Show Ghosts in the Mist (Also their health)~~
-- ~~Disable Pickaxe Ability on Private Island~~
-- Fetchur Solver
-- Puzzler Solver
-- Raffle Waypoint and Warning
-- Show hidden sneaky creepers
-- Dark Mode Mist
-- More Visible Ghosts
-- Recolor Carpets
-- Highlight Completed Commissions
-- Crystal Hollows Map
-- Crystal Hollows Waypoints
-
-</details>
 <details>
   <summary>Items</summary>
 
@@ -209,22 +174,11 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Alerts for Hidden Jerry spawns
 - Relic and Rare Uber Relic waypoints
 - Stop other mods from cancelling terminal clicks
-- Slayer miniboss spawn alert
 - Hide fishing hooks from other players
-- Placed Summoning Eye Display
-- Spider's Den Rain Timer
-- Stop Dropping Valuable Items (customizable BIN value)
 - Trapper cooldown alarm + Click anywhere to accept Trapper Task
 - Rare drop sounds for mythological event drops
 - Highlight disabled potion effects in cookie menu
-- Hidden Jerry Timer
-- Hidden Jerry & Jerry Box Tracker
-- Jerry Perk Display
-- Remove Left Over Bleeds from Minotaurs
-- Hide Dying Mobs
 - Cooldown Tracker
-- /g leave confirmation
-- SBA Chroma fix with Optimized Font Renderer from Patcher
 - Prehistoric Egg Blocks Walked
 - Auto Copy Rare Drops
 
@@ -236,27 +190,7 @@ And more to come!
 
 ## Commands
 
-- /skytils - Opens the main GUI. (Alias is /st)
-- /skytils config - Opens the GUI to edit the config.
-- /skytils help - Displays the various commands and their usages
-- /skytils reload <data/mayor/slayer> - Forces Skytils to refresh of data.
-- /skytils fetchur - Displays the current Fetchur item for the day.
-- /skytils griffin refresh - Forces a refresh for the Griffin burrow waypoints.
-- /skytils aliases - Opens the GUI to edit command aliases.
-- /skytils editlocations (/skytils editlocation, gui, loc) - Opens the GUI to modify HUD element locations.
-- /skytils shortcuts - Opens the GUI to modify keybind shortcuts.
-- /skytils spam - Opens the GUI to modify spam filters.
-- /skytils enchant - Opens the GUI to customize enchant names.
-- /skytilscata <player> - Shows information about a player's Catacombs statistics.
-- /skytilsslayer <player> - Shows information about a player's Slayer statistics.
-- /armorcolor <set/clear/clearall> - Changes the color of an armor piece to the hexcode or decimal color provided. (can
-  also be accessed by /skytils armorcolor)
-- ~~/blockability [clearall] - Block using the ability on the currently held item~~
-- /reparty (/rp) - Disbands and sends a party invite to everyone who was in your party.
-- /glintcustomize override <on/off/clear/clearall> - Change the visibility of enchantment glints for the item.
-- /glintcustomize color <set/clear/clearall> - Change the enchant glint color for the item.
-- /trackcooldown <cooldown in seconds> <item ability> - Set a cooldown for an item ability to track
-- /sthw <set/remove/clear/help> <x y z> <name> - Allows to set waypoints while in the Crystal Hollows.
+- /skypro - Opens the main GUI. (Alias is /sp)
 
 </details>
 
