@@ -1,4 +1,4 @@
-![image](https://github.com/shchepkaa/skypro/assets/166308355/4ecdea51-cc36-40ce-a55d-c8f7fa13fce3)# Skypro
+# Skypro
 
 ***
 
